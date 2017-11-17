@@ -25,7 +25,7 @@
 ## Application Architecture
 
 - [Tufte on architecture](https://twitter.com/EdwardTufte/status/914408124110589952)
-- [We're drowning in technical debt](https://hackernoon.com/were-drowning-in-tech-debt-why-isn-t-anyone-listening-f4269cb5cc40) [HN](https://news.ycombinator.com/item?id=15224991)
+- [We're drowning in technical debt](https://hackernoon.com/were-drowning-in-tech-debt-why-isn-t-anyone-listening-f4269cb5cc40) ([HN](https://news.ycombinator.com/item?id=15224991))
 - [Platform philosophy example](http://data-sutra.com/documentation/servoy-06/developer-guide/philosophy.html)
 - [Monolithic modular example](http://data-sutra.com/documentation/servoy-06/developer-guide/modules.html)
 - [Services architecture example and reasoning](https://datamosaic.github.io/data-sutra-wakanda/documentation/developer-guide/architecture.html)
