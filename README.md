@@ -31,3 +31,23 @@
 - [Services architecture example and reasoning](https://datamosaic.github.io/data-sutra-wakanda/documentation/developer-guide/architecture.html)
 - [Services event flow example #1](https://datamosaic.github.io/sutra-cms/documentation/architecture/controller-flow.html)
 - [Services event flow example #2](https://datamosaic.github.io/data-sutra-wakanda/documentation/developer-guide/logic-flow.html)
+
+## Services Communications
+
+- [What every software engineer should know about real-time data's unifying abstraction](https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying)
+- [Coping with the Polyglot Enterprise | Captial One](https://youtu.be/qPZrm56KFSg?t=1479)
+- [Event sourcing, CQRS, stream processing and Apache Kafka: What’s the connection?](https://www.confluent.io/blog/event-sourcing-cqrs-stream-processing-apache-kafka-whats-connection/)
+- [decoupled-immutable-rest-apis-with-kafka-streams](https://speakerdeck.com/bobbycalderwood/commander-decoupled-immutable-rest-apis-with-kafka-streams)
+- [Event Sourcing Microservices with Kafka](http://blog.kontena.io/event-sourcing-microservices-with-kafka/)
+- [Turning the database inside-out with Apache Samza](https://www.confluent.io/blog/turning-the-database-inside-out-with-apache-samza/)
+- [Writing and Testing an Event Sourcing Microservice with Kafka and Go](https://semaphoreci.com/community/tutorials/writing-and-testing-an-event-sourcing-microservice-with-kafka-and-go)
+- [Building Scalable Applications Using Event Sourcing and CQRS](https://initiate.andela.com/event-sourcing-and-cqrs-a-look-at-kafka-e0c1b90d17d8)
+- [Messaging as the Single Source of Truth](https://www.confluent.io/blog/messaging-single-source-truth/)
+- [What is Apache Kafka? Why is it so popular? Should you use it?](https://techbeacon.com/what-apache-kafka-why-it-so-popular-should-you-use-it)
+- [kafka use cases](https://kafka.apache.org/uses)
+- [Event Sourcing Microservices with Kafka](https://medium.com/kontenainc/event-sourcing-microservices-with-kafka-2568801527d8)
+- [Apache Kafka with Node.js](https://blog.mimacom.com/blog/2017/04/07/apache-kafka-with-node-js/)
+- [Kafka with NodeJS, SocketIO and D3js to build a real time map](https://hackernoon.com/using-kafka-with-nodejs-socketio-and-d3js-to-build-a-real-time-map-b6d3c3eae381)
+- [Kafka REST Proxy](https://github.com/confluentinc/kafka-rest)
+- [Amazon Kinesis](https://aws.amazon.com/kinesis/)
+- [Confluent platform](https://www.confluent.io/)
