@@ -51,3 +51,23 @@
 - [Kafka REST Proxy](https://github.com/confluentinc/kafka-rest)
 - [Amazon Kinesis](https://aws.amazon.com/kinesis/)
 - [Confluent platform](https://www.confluent.io/)
+
+## Machine Learning
+
+- [Machine Learning Algorithms for Business Applications](https://www.techemergence.com/machine-learning-algorithms-for-business-applications-complete-guide/)
+- [Potential applications at central banks](https://bankunderground.co.uk/2017/11/10/new-machines-for-the-old-lady/)
+- [An Introduction to Machine Learning](https://www.digitalocean.com/community/tutorials/an-introduction-to-machine-learning)
+- [ML: Call to action for all organizations](https://blog.networks.nokia.com/innovation/2017/11/09/study-ai-machine-learning/)
+- [Machine learning algorithms](https://github.com/rushter/MLAlgorithms)
+- [Machine Learning From Scratch](https://github.com/eriklindernoren/ML-From-Scratch)
+
+## Voice Applications
+
+- [Alexa Cured My Daughter’s Speech Impediment](https://thelibertyreview.com/alexa-cured-daughters-speech-impediment/)
+- [Wal-Mart partners with Google to offer voice shopping](https://www.cnbc.com/2017/08/22/wal-mart-partners-with-google-to-offer-voice-shopping-via-google-home.html)
+- [Starting today, Capital One customers can manage their money using Amazon's virtual assistant, Alexa](https://www.cnbc.com/2016/03/11/amazon-virtual-assistant-alexa-adds-bank-teller-to-resume.html)
+- [Your bank at your voice command. Ask Fina.](https://fina.ai/alexa-skill/)
+
+## Data Science
+
+- [Data Science for Business](http://www.data-science-for-biz.com/DSB/Home.html)
