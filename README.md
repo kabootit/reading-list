@@ -19,6 +19,7 @@
 - [Human-centered design is a practical, repeatable approach](http://www.designkit.org/methods)
 - [Communication Methods supporting the design process](http://www.servicedesigntools.org/repository)
 - [apply creative collaboration and unleash potential in your team or organization](http://toolbox.hyperisland.com/)
+- [Design System](https://medium.com/initialized-capital/instacarts-lead-product-designer-on-creating-design-systems-4cffefdfca00)
 
 ## Engineering Team
 
