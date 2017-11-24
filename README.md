@@ -71,3 +71,12 @@
 ## Data Science
 
 - [Data Science for Business](http://www.data-science-for-biz.com/DSB/Home.html)
+
+## UX tools, methods & activities
+
+- [Design Research Techniques](http://designresearchtechniques.com/#/)
+- [18F Method Cards](https://methods.18f.gov/)
+- [Design Method Toolkit for agile, team-based projects](https://medialabamsterdam.com/toolkit/)
+- [Human-centered design is a practical, repeatable approach](http://www.designkit.org/methods)
+- [Communication Methods supporting the design process](http://www.servicedesigntools.org/repository)
+- [apply creative collaboration and unleash potential in your team or organization](http://toolbox.hyperisland.com/)
