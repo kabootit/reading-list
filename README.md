@@ -21,8 +21,10 @@
 - [apply creative collaboration and unleash potential in your team or organization](http://toolbox.hyperisland.com/)
 - [Design System](https://medium.com/initialized-capital/instacarts-lead-product-designer-on-creating-design-systems-4cffefdfca00)
 
-## Engineering Team
+## Process
 
+- [Why Agile Isn’t Working and What We Do Differently](https://m.signalvnoise.com/running-in-circles-aae73d79ce19)
+- [Collaboration Kills Creativity](https://www.inc.com/geoffrey-james/collaboration-kills-creativity-according-to-science.html) ([HN Discussion](https://news.ycombinator.com/item?id=15779870))
 - http://www.edweissman.com/
 - [Organizing Jira tickets](https://twitter.com/mikeherchel/status/914682420372426752)
 - https://medium.com/bbc-design-engineering/how-we-grow-junior-developers-at-the-bbc-dc3054f7e390
