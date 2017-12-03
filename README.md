@@ -2,6 +2,7 @@
 
 ## UX, UI and Interactive Design
 
+- [JavaScript finite state machines and statecharts](https://github.com/davidkpiano/xstate)
 - [Finite Automata](http://slides.com/davidkhourshid/finite-state-machines#/)
 - [DFA](https://en.wikipedia.org/wiki/DFA_minimization)
 - [Complete Beginner’s Guide to Interaction Design](http://www.uxbooth.com/articles/complete-beginners-guide-to-interaction-design/)
