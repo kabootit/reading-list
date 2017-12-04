@@ -1,5 +1,9 @@
 # Reading List
 
+## Culture
+
+- [Netflix Culture: Freedom and Responsibility](https://www.slideshare.net/reed2001/culture-1798664/2-Netflix_CultureFreedom_Responsibility2)
+
 ## UX, UI and Interactive Design
 
 - [JavaScript finite state machines and statecharts](https://github.com/davidkpiano/xstate)
