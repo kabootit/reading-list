@@ -2,7 +2,21 @@
 
 ## Culture
 
+- [Things I have learnt as the software engineering lead of a multinational](https://minnenratta.wordpress.com/2017/01/25/things-i-have-learnt-as-the-software-engineering-lead-of-a-multinational/) ([HN](https://news.ycombinator.com/item?id=16028429))
+- [Effective Engineer - Notes](https://gist.github.com/rondy/af1dee1d28c02e9a225ae55da2674a6f) ([HN](https://news.ycombinator.com/item?id=16022916))
 - [Netflix Culture: Freedom and Responsibility](https://www.slideshare.net/reed2001/culture-1798664/2-Netflix_CultureFreedom_Responsibility2)
+
+## Process
+
+- [How and why we teach non-engineers to use GitHub](https://thread.engineering/teaching-non-engineers-how-to-contribute-code-2e85411ab464) ([HN](https://news.ycombinator.com/item?id=16072302))
+- [Developer-driven development](https://dev.to/isaacandsuch/developer-driven-development)
+- [Why Agile Isn’t Working and What We Do Differently](https://m.signalvnoise.com/running-in-circles-aae73d79ce19)
+- [Collaboration Kills Creativity](https://www.inc.com/geoffrey-james/collaboration-kills-creativity-according-to-science.html) ([HN Discussion](https://news.ycombinator.com/item?id=15779870))
+- http://www.edweissman.com/
+- [Organizing Jira tickets](https://twitter.com/mikeherchel/status/914682420372426752)
+- https://medium.com/bbc-design-engineering/how-we-grow-junior-developers-at-the-bbc-dc3054f7e390
+- [Adding developers](https://twitter.com/RichRogersIoT/status/914577613300965377)
+- [Predictive Models of Development Teams and the Systems They Build](https://www.youtube.com/watch?v=_0hjcq6LAHw)
 
 ## UX, UI and Interactive Design
 
@@ -26,18 +40,9 @@
 - [apply creative collaboration and unleash potential in your team or organization](http://toolbox.hyperisland.com/)
 - [Design System](https://medium.com/initialized-capital/instacarts-lead-product-designer-on-creating-design-systems-4cffefdfca00)
 
-## Process
-
-- [Why Agile Isn’t Working and What We Do Differently](https://m.signalvnoise.com/running-in-circles-aae73d79ce19)
-- [Collaboration Kills Creativity](https://www.inc.com/geoffrey-james/collaboration-kills-creativity-according-to-science.html) ([HN Discussion](https://news.ycombinator.com/item?id=15779870))
-- http://www.edweissman.com/
-- [Organizing Jira tickets](https://twitter.com/mikeherchel/status/914682420372426752)
-- https://medium.com/bbc-design-engineering/how-we-grow-junior-developers-at-the-bbc-dc3054f7e390
-- [Adding developers](https://twitter.com/RichRogersIoT/status/914577613300965377)
-- [Predictive Models of Development Teams and the Systems They Build](https://www.youtube.com/watch?v=_0hjcq6LAHw)
-
 ## Application Architecture
 
+- [A pattern language for microservices](http://microservices.io/patterns/)
 - [NGiNX microservices guides](https://www.nginx.com/blog/introduction-to-microservices/)
 - [Tufte on architecture](https://twitter.com/EdwardTufte/status/914408124110589952)
 - [We're drowning in technical debt](https://hackernoon.com/were-drowning-in-tech-debt-why-isn-t-anyone-listening-f4269cb5cc40) ([HN Discussion](https://news.ycombinator.com/item?id=15224991))
@@ -86,3 +91,13 @@
 ## Data Science
 
 - [Data Science for Business](http://www.data-science-for-biz.com/DSB/Home.html)
+
+## UX Examples and templates
+
+- [Onboarding Example](https://www.pinterest.com/pin/844493663631913/)
+- [Sign-up example, type of user](https://www.pinterest.com/pin/829647562574494742/)
+- [Sign-up example, nice design](https://dribbble.com/shots/2773952-Sign-Up)
+- [Sign-up example, detailed descriptions](https://dribbble.com/shots/2825401-Login-page)
+- [UX Deliverables Starter Kit](https://www.graffletopia.com/stencils/1409)
+- [UX Project Checklist](https://uxchecklist.github.io/)
+- [Example UX Docs and Deliverables](http://www.uxforthemasses.com/resources/example-ux-docs/)
