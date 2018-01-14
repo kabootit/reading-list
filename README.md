@@ -94,7 +94,8 @@
 
 ## UX Examples and templates
 
-- [Onboarding Example](https://www.pinterest.com/pin/844493663631913/)
+- [Onboarding Example #1](https://dribbble.com/shots/3529337--Onerent-Landlord-Flow/attachments/782936)
+- [Onboarding Example #2](https://www.pinterest.com/pin/844493663631913/)
 - [Sign-up example, type of user](https://www.pinterest.com/pin/829647562574494742/)
 - [Sign-up example, nice design](https://dribbble.com/shots/2773952-Sign-Up)
 - [Sign-up example, detailed descriptions](https://dribbble.com/shots/2825401-Login-page)
